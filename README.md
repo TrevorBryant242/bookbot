@@ -1,2 +1,3 @@
 # bookbot
-bookbot is used to count the number of words/ characters in a given book
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
